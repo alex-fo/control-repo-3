@@ -13,11 +13,9 @@
   allow_users:
     - 'john'
     - 'bridget'
-    - 'ubuntu'
   sudoers:
     - 'john'
     - 'bridget'
-    - 'ubuntu'
   classes:
     - profile::ntp
     - profile::puppet
